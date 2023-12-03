@@ -2,7 +2,7 @@ import telebot
 import random
 from telebot import types
 from sites import sites_dict
-token = '6430340626:AAGqLEboW2yANq90l7NPLcUKQ6QWuE4wREE'
+token = ''
 bot = telebot.TeleBot(token)
 
 # Обработчик команды /start
